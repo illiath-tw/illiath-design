@@ -1,2 +1,2 @@
 # illiath-design
-lil text based game
+trying to adhere to AP CSA while following zero proper protocols
