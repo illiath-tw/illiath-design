@@ -1,2 +1,2 @@
 # illiath-design
-trying to adhere to AP CSA while following zero proper protocols
+A lil text based thing that definetely exists.
