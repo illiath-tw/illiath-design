@@ -1,0 +1,1 @@
+print("Welcome to illiath's audio transcription *t h i n g*\nPlease select the audio file you wish to transcribe.")
